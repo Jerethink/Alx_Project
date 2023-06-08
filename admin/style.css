@@ -1,0 +1,119 @@
+<!--
+
+hr{
+    
+    margin-top: 10px;
+    display: auto;
+    color: rgb(13, 13, 14);
+    
+}
+
+h1{
+    text-align: left;
+    color: rgb(20, 47, 91);
+    margin-left: 30px;
+}
+
+.container{
+    color: white;
+    display: grid;
+    grid-gap: 60px;
+    grid-template-columns: 400px 400px 400px;
+    margin-left:40px;
+    margin-top:80px;
+    
+
+}
+
+.first{
+    background-color: rgb(17, 17, 55);
+    border-radius: 25px;
+    border-style: dotted;
+    text-align: center;
+    border-width: 3px;
+    
+}
+
+.second {
+    background-color: rgb(17, 17, 55);
+    border-radius: 25px;
+    border-style: dotted;
+    text-align: center;
+    border-width: 3px;
+    
+}
+
+.third{
+    background-color: rgb(17, 17, 55);
+    border-radius: 25px;
+    border-style: dotted;
+    text-align: center;
+    border-width: 3px;
+    
+}
+
+a{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-display: bold;
+    font-size: larger;
+}
+
+.form-control{
+    margin-top: 250px;
+    border-radius: 15px;
+    background-color: rgb(108, 91, 91);
+    align-items: center;
+    color: white;
+    border-width: 40px;
+    background-image: url(images/hero_1.jpg);
+}
+label{
+    margin-left: 30px;
+    font-size: xx-large;
+    color: black;
+}
+
+textarea{
+    height: 500px;
+    width:900px;
+    border-radius: 15px;
+
+}
+ 
+input{
+    width:500px;
+    height: 50px;
+    border-radius: 25px;
+    
+}
+button{
+    border-radius: 25px;
+    background-color: rgb(38, 169, 52);
+    margin-bottom: 40px;
+    width: 200px;
+    height: 60px;
+    color:white;
+    font-size: large;
+}
+
+.head{
+    background-color: rgb(17, 17, 55);
+    height: 50px;
+    border-radius: 10px;
+    
+    text-align: center;
+
+}
+.table{
+    margin-top: 50px;
+    margin-left: 200px;
+    background-color: rgb(17, 17, 55);
+    align-items: center;
+    justify-items: center;
+    border-radius: 15px;
+    color: white;
+    
+    height: 100px;
+    
+}
